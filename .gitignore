@@ -1,0 +1,13 @@
+venv/
+
+# Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# OS / IDE files
+.DS_Store
+.env
+.ipynb_checkpoints/
