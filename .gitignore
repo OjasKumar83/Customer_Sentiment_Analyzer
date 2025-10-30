@@ -1,9 +1,11 @@
 venv/
-
+data/raw/Reviews.csv
+models/sentiment_model.pkl
 # Python cache and temp files
 __pycache__/
 *.pyc
 *.pyo
+*.pkl
 *.pyd
 *.log
 
